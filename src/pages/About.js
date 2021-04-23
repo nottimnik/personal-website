@@ -8,7 +8,9 @@ export default function About() {
                 <h1 style={{fontFamily: "fantasy", textAlign: "center"}}>About me</h1>
                 <p style={{textAlign: "center", fontFamily: "fantasy"}}>My name is Ungureanu Calin Petru, I am 15 yr old Programmer and Artist. <br /> 
                 I call myself a professional retard, because I am. All day I program or draw or make music. <br />
-                I smoke and get drunk because I am sad sometimes, but I quit smoking but idk I it will last. 
+                I call myself a professional, because I want to think that I am doing some import work, but I am not doing. <br />
+                When I don't make music/program I usually go outside with my bike or <br />
+                Smoke and get drunk because I am sad sometimes (for no fking reason), but I quit smoking but idk if it will last. 
                 </p>
 
 
