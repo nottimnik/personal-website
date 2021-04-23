@@ -15,7 +15,6 @@ export default function Home() {
 
             <h2 style={{position:"relative" ,top: "360px",fontFamily: "fantasy", textAlign: "center"}}>Contact Me</h2>
             <p style={{fontSize: "13px"  ,position:"relative" ,top: "362px",fontFamily: "fantasy", textAlign: "center"}}>
-                0771 351 758 <br />
                 calin.petru.ungureanu@gmail.com
             </p>
 
