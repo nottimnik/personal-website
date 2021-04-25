@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap');
+
+.navbar-title {
+    font-family: 'Roboto', sans-serif, monospace;
+    font-size: 24px;
+    text-decoration: initial;
+    font-weight: bold;
+    margin: 24px;
+    position: relative;
+    top: 12px;
+}
+
+.navbar-title:hover {
+    color: #4a17b8;
+}
+
+.navbar-github-icon {
+    float: right;
+    margin: 12px;
+    position: relative;
+    right: 30px;
+}
+
+.navbar-github-icon:hover {
+    color: #4a17b8;
+}
+
+.navbar-links {
+    text-align: right;
+    position: relative;
+    top: -14px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+    text-decoration: initial;
+    right: 30px;
+}
+
+.navbar-link-contact {
+    text-decoration:initial;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.navbar-link-about {
+    text-decoration: initial;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.navbar-link-work {
+    text-decoration: initial;
+    margin-right: 10px;
+    margin-left: 10px;
+}
