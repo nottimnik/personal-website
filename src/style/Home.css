@@ -1,0 +1,34 @@
+.title {
+    text-decoration: inherit;
+    font-family: monospace;
+    font-size: 24px;
+    position: relative;
+    top: 50px;
+}
+
+.all {
+    margin-left: 10%;
+}
+
+.title:hover {
+    color: #5c1aeb;
+}
+
+.list-home {
+    font-family: "Source Code Pro",monospace;
+    position: relative;
+    top: 50px;
+}
+
+.parar {
+    display: flex;
+    position: relative;
+    top: 50px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.number {
+    font-family: monospace;
+    font-size: 23px;
+}
